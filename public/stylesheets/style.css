@@ -1,0 +1,72 @@
+.nav
+{
+    position: absolute;
+    width: 1920px;
+    height: 98px;
+    left: 0px;
+    top: 0px;
+    
+    background: #4087BA;
+}
+.navbar{
+    position: absolute;
+width: 98px;
+height: 68px;
+left: 58px;
+top: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+
+color: #FFFFFF;
+
+}
+.a{
+    position:fixed;
+width: 1920px;
+height: 982px;
+left: -570px;
+top: 98px;
+
+}
+.head{
+    position: absolute;
+width: 532px;
+height: 98px;
+left: 966px;
+top: 159px;
+
+font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 92px;
+
+color: #00A3FF;
+}
+.tag{
+    position: absolute;
+width: 704px;
+height: 181px;
+left: 966px;
+top: 272px;
+
+font-family: Sansation;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 54px;
+
+color: #000000;
+}
+.chat{
+    position: absolute;
+    width: 467px;
+    height: 662px;
+    left: 184px;
+    top: 157px;
+    
+}

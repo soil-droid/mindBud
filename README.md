@@ -7,3 +7,5 @@ the problem is being solved using a dataset faq from kaggle
 
 azure service used :
 Azure Bot Service, App Service, Web Apps
+
+https://njapp123.azurewebsites.net
